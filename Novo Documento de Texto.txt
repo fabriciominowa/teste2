@@ -1,5 +1,3 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 bemvindo
-=======
-bemvindosss
->>>>>>> Stashed changes
